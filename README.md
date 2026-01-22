@@ -1,2 +1,20 @@
 # Water-Gun-Game-Python
-Fun Python rock-paper-scissors style water gun game with computer opponent.
+
+Rock-paper-scissors variant: choose Rock/Water Gun/Paper Snake/scissoors against computer.
+
+## Features
+- Computer random choice
+- Win/loss logic (Rock beats Scissors, Water Gun beats Rock, etc.)
+- Play-again loop
+
+
+## How to Run
+Run: `python main.py`
+
+## Skills Demonstrated
+- String comparisons
+- Nested conditionals
+- Infinite loops with exit
+
+
+
